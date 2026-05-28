@@ -34,7 +34,7 @@
 | 模型供应商 | 官方主线是 Anthropic/Claude，通过 CC Switch 可接国内供应商 | 支持多 Provider 与自定义 OpenAI-compatible Provider | 课堂统一使用 CC Switch 管理阿里百炼配置 |
 | 安装与账号 | 需要可用的 Claude Code 访问权限 | 工具安装后，主要取决于所选模型供应商 | 学员按课前通知统一配置 |
 | 开源性 | 闭源官方产品，适合做官方体验参考 | 开源，便于教学解释和本地化适配 | 不把工具差异讲成课程重点 |
-| 规则文件 | 常用 `CLAUDE.md` 记录项目规则 | 常用 `AGENTS.md` 记录项目规则 | 统一讲”项目规则文件” |
+| 规则文件 | 常用 `CLAUDE.md` 记录项目规则 | 常用 `AGENTS.md` 记录项目规则 | 两者功能相同，只是文件名习惯不同 |
 | 适合对象 | 课堂统一配置、希望体验官方最佳实践 | 合规备用、混合模型、批量部署 | 课堂推荐 Claude Code + CC Switch，OpenCode 作为合规备用 |
 
 一句话：**课堂统一支持时推荐 Claude Code + CC Switch；OpenCode 作为合规备用方案。**
